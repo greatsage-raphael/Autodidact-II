@@ -1,12 +1,7 @@
-type Props = {
-    title: string;
-  };
-
-
-export default function Section({children} : React.PropsWithChildren<Props>){
+export default function Section(props :{children: React.ReactNode}){
     return (
         <p className=" text-white-300">
-            {children}
+            {props.children}
         </p>
     )
 }
