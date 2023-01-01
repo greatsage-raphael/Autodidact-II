@@ -97,9 +97,8 @@ return (
 )}
 
     <div>
-      <h2 className="text-4xl font-bold">Some secret content!</h2>
-      <p>This content is only available to users with NFTs! 🤫</p>
-      <p>You can put anything you like here!</p>
+      <h2 className="text-4xl font-bold">Welcome Autodidact</h2>
+      <p>Congratulations on making it here</p>
     </div>
   </div>
 )
