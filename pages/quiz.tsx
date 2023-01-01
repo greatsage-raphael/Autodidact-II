@@ -1,4 +1,4 @@
-import QuizGame from "../components/quiz";
+import QuizGame from "../components/quiz-game";
 import quizQuestions from "../lib/questions";
 
 export function getStaticProps() {
