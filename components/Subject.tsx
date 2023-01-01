@@ -1,5 +1,5 @@
 type Props = {
-    title: string;
+    content: any;
   };
 
 export default function Subject({ children }: React.PropsWithChildren<Props>) {
