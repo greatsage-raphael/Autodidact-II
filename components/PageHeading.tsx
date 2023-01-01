@@ -1,5 +1,5 @@
 type Props = {
-    title: string;
+    heading: any;
   };
 
 export default function PageHeading({ children } : React.PropsWithChildren<Props>) {
